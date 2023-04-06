@@ -17,5 +17,4 @@ RUN chmod +x run.sh
 
 EXPOSE 9000
 
-# Запуск скрипта ожидания и приложения
 CMD ./run.sh
